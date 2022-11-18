@@ -1,4 +1,4 @@
-# expenser-app
+# Expenser App
 
 💲 Expenser
 
