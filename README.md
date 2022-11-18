@@ -1,6 +1,6 @@
 # expenser-app
 
-💲 Expensy
+💲 Expenser
 
 An expense tracker web application that makes tracking daily expenses a breeze.
 
