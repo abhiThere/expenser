@@ -1,6 +1,6 @@
 # Expenser App
 
-💲 Expenser
+💲 Expenser: https://abhithere.github.io/expenser/
 
 An expense tracker web application that makes tracking daily expenses a breeze.
 
