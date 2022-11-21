@@ -14,7 +14,7 @@ It also provides a filter dropdown for filtering out the list of expenses based 
 # Features
 
 * Add new expense in the expenses list.
-* View expense analytics in the form of bar chart.
+* View expense analytics in the form of an interactive bar chart.
 * Filter expenses based on some year.
 
 # Built With
