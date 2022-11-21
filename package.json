@@ -1,6 +1,6 @@
 {
   "homepage": "https://abhiThere.github.io/expenser",
-  "name": "expenser-app",
+  "name": "expenser",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
