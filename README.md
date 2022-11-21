@@ -26,7 +26,7 @@ This web app is developed using React and delivers a responsive and engaging use
 # Acknowledgements
 
 * [GitHub Pages](https://pages.github.com)
-* [Font Awesome](https://fontawesome.com)
+* [favicon.io](https://favicon.io/)
 
 <!-- REFERENCE VARIABLES -->
 [react-shield]: https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB
