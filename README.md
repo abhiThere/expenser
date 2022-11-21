@@ -26,7 +26,7 @@ This web app is developed using React and delivers a responsive and engaging use
 # Acknowledgements
 
 * [GitHub Pages](https://pages.github.com)
-* [Flaticon](https://www.flaticon.com/)
+* [flaticon](https://www.flaticon.com/)
 * [favicon.io](https://favicon.io/)
 
 <!-- REFERENCE VARIABLES -->
