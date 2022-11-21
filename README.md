@@ -21,7 +21,8 @@ It also provides a filter dropdown for filtering out the list of expenses based 
 
 This web app is developed using React and delivers a responsive and engaging user experience.
 
-[![React][react-shield]][react-url]
+* [![React][react-shield]][react-url]
+* [![CSS][css-shield]][css-url]
 
 # Acknowledgements
 
@@ -32,3 +33,5 @@ This web app is developed using React and delivers a responsive and engaging use
 <!-- REFERENCE VARIABLES -->
 [react-shield]: https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB
 [react-url]: https://reactjs.org/
+[css-shield]: https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white
+[css-url]: https://www.w3.org/Style/CSS/Overview.en.html
