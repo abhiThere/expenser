@@ -24,9 +24,7 @@ It also provides a filter dropdown for filtering out the list of expenses based 
 ![Expenses Chart](https://user-images.githubusercontent.com/74660692/203373709-a24d105b-2d69-4118-a2a1-c23771c96e62.png)
 
 
-
 ![Expenses Form](https://user-images.githubusercontent.com/74660692/203373750-bec74754-4c5a-4cef-9ece-47c36aaaa5fd.png)
-
 
 
 ![Expenses List](https://user-images.githubusercontent.com/74660692/203373781-b3fe677f-6bc0-421d-b9c8-1b9937199ff3.png)
