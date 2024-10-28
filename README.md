@@ -6,18 +6,18 @@ The web app is live at [Expenser](https://abhithere.github.io/expenser/)
 
 # 📃 Description
 
-Expenser is an interactive and reactive web app that makes keeping track of daily expenses a breeze.
-The web app displays a list of expenses for each month of a particular year.
-It provides a form to the users in order to fill out their expense details and add a new expense for a given date.
-The application UI displays an interactive bar chart that helps users visualize their expense analytics for every month of a specific year.
-It also provides a filter dropdown for filtering out the list of expenses based on some year.
+Expenser is a responsive web application that makes keeping track of daily expenses a breeze.
+The web app displays a list of monthly expenses of a particular year.
+It provides a form to add a new expense for a particular date.
+The UI visualizes monthly expense analytics of a specific year with an interactive bar chart.
+It also provides a dropdown to filter expenses based on some year.
 
 # 🎯 Features
 
-* View the list of expenses for each month of a specific year.
-* Add a new expense in the expenses list.
-* View expense analytics in the form of an interactive bar chart.
-* Filter the expenses list based on some year.
+* View a list of monthly expenses of a specific year.
+* Add a new expense for a particular date.
+* Visualize monthly expense analytics of a specific year.
+* Filter expenses based on some year.
 
 # 📷 Screenshots
 
@@ -31,7 +31,7 @@ It also provides a filter dropdown for filtering out the list of expenses based 
 
 # 👨‍💻 Built With
 
-This web app is developed using React and delivers a responsive and engaging user experience.
+This web app is developed using React and delivers an engaging user experience.
 
 * [![React][react-shield]][react-url]
 * [![CSS][css-shield]][css-url]
