@@ -9,14 +9,14 @@ App Link: [Expenser](https://abhithere.github.io/expenser/)
 Expenser makes keeping track of daily expenses a breeze.
 It displays a list of monthly expenses for a specific year.
 It provides a form to add an expense for a particular date.
-The interactive bar chart visualizes monthly expense analytics for a specific year.
+The interactive bar chart visualises monthly expense analytics for a specific year.
 It also provides a dropdown filter to view expenses by year.
 
 # 🎯 Features
 
 * View a list of monthly expenses for a selected year.
 * Add an expense for a particular date.
-* Visualize monthly expense analytics for a specific year.
+* Visualise monthly expense analytics for a specific year.
 * Filter expenses by year.
 
 # 📷 Screenshots
